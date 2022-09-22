@@ -1,11 +1,12 @@
 
 import './App.css';
-import Mobiles from './component/Mobiles/Mobiles';
+import Mobile from './component/Mobile/Mobile';
+
 
 function App() {
   return (
     <div className="App">
-      <Mobiles />
+      <Mobile />
     </div>
   );
 }
